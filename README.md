@@ -1,1 +1,1 @@
-# Master--Machine-Learning--NaiveBayes-with-Python
+Machine-Learning--NaiveBayes-with-Python
